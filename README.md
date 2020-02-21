@@ -4,3 +4,5 @@ This is links for homework 1
   For question 2
       https://youtu.be/nFYCR4pWKYs
       
+This is links for homework 2
+https://www.youtube.com/watch?v=aaN2-_6gGsw
